@@ -1,3 +1,6 @@
+# High-Performance Serverless API with Firebase Cloud Functions & TypeScript
+This project implements a scalable, secure, and modern serverless API using **Firebase Cloud Functions (Node/2nd Gen)** and **TypeScript**. It utilizes an **Express.js** architecture to manage complex routing and focuses on **Firestore** for secure, low-latency **NoSQL data operations (CRUD)**.
+
 # Cloud Functions for Firebase Sample Library
 
 This repository contains a collection of samples showcasing some typical uses of [Cloud Functions for Firebase](https://firebase.google.com/features/functions).
